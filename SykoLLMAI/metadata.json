@@ -1,0 +1,7 @@
+{
+  "name": "GeoGemini Explorer",
+  "description": "An interactive map-based chatbot powered by Gemini. Switch between Maps Grounding for local insights, Google Search for real-time web info, and Pro Chat for complex reasoning.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
